@@ -1,0 +1,14 @@
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\TTask\TTask\bin\Debug\netcoreapp3.1\TTask.exe
+C:\Users\BAKU\source\repos\TTask\TTask\bin\Debug\netcoreapp3.1\TTask.deps.json
+C:\Users\BAKU\source\repos\TTask\TTask\bin\Debug\netcoreapp3.1\TTask.runtimeconfig.json
+C:\Users\BAKU\source\repos\TTask\TTask\bin\Debug\netcoreapp3.1\TTask.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\TTask\TTask\bin\Debug\netcoreapp3.1\TTask.dll
+C:\Users\BAKU\source\repos\TTask\TTask\bin\Debug\netcoreapp3.1\TTask.pdb
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.dll
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.pdb
+C:\Users\BAKU\source\repos\TTask\TTask\obj\Debug\netcoreapp3.1\TTask.genruntimeconfig.cache
